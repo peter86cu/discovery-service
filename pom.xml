@@ -11,7 +11,6 @@
 	<groupId>com.wannacode</groupId>
 	<artifactId>discovery-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>discovery-service</name>
 	<description>Discovery Service</description>
 	<properties>
